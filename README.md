@@ -10,3 +10,6 @@ This is a mobile-responsive restaurant website cloned from a Colorlib template.
 ## Notes
 - This project is a clone for practice purposes.
 - Original design credits go to **Colorlib**.
+
+  ## Live Link
+  [https://splendid-pothos-b093ee.netlify.app/]
