@@ -1,19 +1,31 @@
-# Restaurant-Clone-Mobile
-A mobile-responsive restaurant website cloned from a Colorlib template for practice.
-This is a mobile-responsive restaurant website cloned from a Colorlib template.
+# 🍽️ Restaurant-Clone-Mobile
 
-## Features
-- HTML and CSS only
-- Designed for mobile devices
-- Simple and clean layout
+A **mobile-responsive restaurant website** cloned from a Colorlib template — built using only **HTML and CSS** for learning and practice purposes.
 
-## Screenshot
-<img width="1712" height="841" alt="image" src="https://github.com/user-attachments/assets/f567d8b0-fcb7-417d-9956-9cfe0a830db9" />
+---
+
+## 🌐 Live Demo
+
+🔗 [Visit Live Website](https://splendid-pothos-b093ee.netlify.app/)  
+*(Deployed using Netlify)*
+
+---
+
+## 📸 Screenshot
+
+![Restaurant Clone Screenshot](<img width="1698" height="874" alt="image" src="https://github.com/user-attachments/assets/665e7c50-f139-4702-8297-aa6bf3d41b27" />
+)  
 
 
-## Notes
-- This project is a clone for practice purposes.
-- Original design credits go to **Colorlib**.
+---
 
-  ## Live Link
-  [https://splendid-pothos-b093ee.netlify.app/]
+## ✨ Features
+
+- 📱 **Mobile-first design**
+- 💻 Clean and elegant layout
+- ⚙️ Built with **HTML** and **CSS only**
+- ✅ No frameworks or JavaScript used
+- 🔄 Fully responsive on mobile devices
+- 🎨 Styled with modern UI elements for a restaurant vibe
+
+---
