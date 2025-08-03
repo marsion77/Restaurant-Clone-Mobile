@@ -13,7 +13,8 @@ A **mobile-responsive restaurant website** cloned from a Colorlib template — b
 
 ## 📸 Screenshot
 
-![width="1698" height="874" alt="image" src="https://github.com/user-attachments/assets/665e7c50-f139-4702-8297-aa6bf3d41b27")  
+[![Uploading image.png…]()
+ 
 
 ---
 
