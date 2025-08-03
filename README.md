@@ -1,4 +1,4 @@
-<img width="1572" height="849" alt="image" src="https://github.com/user-attachments/assets/b06ad132-5e1c-422e-9be6-5f4b681e1f1f" /># 🍽️ Restaurant-Clone-Mobile
+# 🍽️ Restaurant-Clone-Mobile
 
 A **mobile-responsive restaurant website** cloned from a Colorlib template — built using only **HTML and CSS** for learning and practice purposes.
 
