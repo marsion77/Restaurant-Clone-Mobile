@@ -6,7 +6,7 @@ A **mobile-responsive restaurant website** cloned from a Colorlib template — b
 
 ## 🌐 Live Demo
 
-🔗 [Visit Live Website](https://splendid-pothos-b093ee.netlify.app/)  
+🔗 https://splendid-pothos-b093ee.netlify.app/
 *(Deployed using Netlify)*
 
 ---
